@@ -1,0 +1,11 @@
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+build/
+x
+
+filesource.dat
+recodefiledemo.file
+*.[ao]
+
+
